@@ -1,10 +1,10 @@
-` ` ` txt
+```txt
 These codes and overall same lower codes under this respiratory are KNU Algorithm practice subaject's solutions,
 
 All codes are written by me(N0VA-code)
-` ` ` 
+```
 
-` ` ` txt
+```txt
 AP1-1
 Sequential Search
 Description
@@ -50,30 +50,30 @@ Sample Output 1
 5 is in 4.
 8 is in 6.
 3 is not in S.
-` ` ` 
+```
 
-` ` ` cpp
+```cpp
 void seqsearch(int n, vector<int> S, int x, int& location)
-2
+
 {
-3
+
     location = 1;
-4
+
     while (location <= n && S[location] != x)
-5
+
     {
-6
+
        location++;
-7
+
     }
-8
+
     
-9
+
     if (location > n) location = 0;
-10
+
 }
-` ` `
-` ` ` txt
+```
+```txt
 AP1-2
 Adding Array Elements
 Description
@@ -104,9 +104,9 @@ Sample Input 1
 10 7 11 5 13 8
 Sample Output 1
 54
-` ` `
+```
 
-` ` `cpp
+```cpp
 int sum(int n, vector<int> S) {
 
     int m = 0;
@@ -124,4 +124,4 @@ int sum(int n, vector<int> S) {
     return m;
 
 }
-` ` `
+```
