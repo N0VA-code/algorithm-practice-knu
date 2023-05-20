@@ -126,7 +126,7 @@ int sum(int n, vector<int> S) {
 }
 ```
 ```txt
-AP1-2
+AP1-3
 Exchange Sort
 Description
 Implement the Exchange Sort algorithm in C++ as follows:
