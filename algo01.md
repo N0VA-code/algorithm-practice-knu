@@ -1,5 +1,5 @@
 ```txt
-These codes and overall same lower codes under this respiratory are KNU Algorithm practice subaject's solutions,
+These codes and overall same lower codes under this repository are KNU Algorithm practice subaject's solutions,
 
 All codes are written by me(N0VA-code)
 ```
